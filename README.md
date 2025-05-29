@@ -46,21 +46,6 @@ As a Senior and Lead Developer, I have been at the forefront of designing and de
 
 ---
 
-## 🛠 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/whot-games-promotion.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd whot-games-promotion
-   ```
-3. Open the `index.html` file in your browser to view the landing page locally.
-4. Deploy to platforms like [Vercel](https://vercel.com) for hosting.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
