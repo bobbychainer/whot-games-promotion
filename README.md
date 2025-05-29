@@ -1,85 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
+# Whot Games Promotion
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Whot Games Promotion</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
+Welcome to the **Whot Games Promotion** repository. This project showcases Africa's most beloved card games: **Whot Africa**, **Whoto Whoto**, **Whot Naija**, and **Chopbarah**. Experience the joy of strategy, culture, and fun through these engaging games!
 
-<body class="bg-gray-100 text-gray-900">
-    <!-- Header Section -->
-    <header class="bg-blue-600 text-white py-4 shadow-lg">
-        <div class="container mx-auto flex justify-between items-center px-4">
-            <h1 class="text-3xl font-bold">Whot Games</h1>
-            <nav>
-                <ul class="flex gap-4">
-                    <li><a href="#whot-africa" class="hover:underline">Whot Africa</a></li>
-                    <li><a href="#whoto-whoto" class="hover:underline">Whoto Whoto</a></li>
-                    <li><a href="#whot-naija" class="hover:underline">Whot Naija</a></li>
-                    <li><a href="#chopbarah" class="hover:underline">Chopbarah</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+---
 
-    <!-- Hero Section -->
-    <section class="bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white py-20">
-        <div class="container mx-auto text-center px-4">
-            <h2 class="text-4xl font-bold mb-4">Explore the Best Card Games in Africa</h2>
-            <p class="text-lg mb-6">Join millions of players enjoying Whot Africa, Whoto Whoto, Whot Naija, and Chopbarah!</p>
-            <a href="#" class="bg-white text-blue-600 px-6 py-3 rounded-lg shadow-md hover:bg-gray-200">Play Now</a>
-        </div>
-    </section>
+## 🌟 Explore the Best Card Games in Africa
 
-    <!-- Introduction Section -->
-    <section class="py-12 bg-gray-50">
-        <div class="container mx-auto text-center px-4">
-            <h3 class="text-3xl font-bold mb-4">About Me</h3>
-            <p class="text-lg mb-6">As a Senior and Lead Developer, I have been at the forefront of designing and developing these amazing games that have become a staple of fun and strategy across Africa. My expertise has brought life to Whot Africa, Whoto Whoto, Whot Naija, and Chopbarah, ensuring every player experiences top-notch gameplay.</p>
-            <img src="images/developer.jpg" alt="Developer Image" class="mx-auto rounded-full w-40 h-40 shadow-md">
-        </div>
-    </section>
+Join millions of players enjoying Whot Africa, Whoto Whoto, Whot Naija, and Chopbarah! Play now and be part of a community of card game enthusiasts.
 
-    <!-- Game Sections -->
-    <section id="whot-africa" class="py-12">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 px-4">
-            <div>
-                <h3 class="text-3xl font-bold mb-4">Whot Africa</h3>
-                <p class="text-lg mb-4">Whot Africa is a card game designed for lovers of strategy and excitement. With its vibrant design and engaging gameplay, it connects players across the continent.</p>
-                <ul class="list-disc list-inside text-lg mb-4">
-                    <li>Classic card designs</li>
-                    <li>Multiplayer mode</li>
-                    <li>Interactive leaderboards</li>
-                </ul>
-                <a href="#" class="text-blue-600 hover:underline">Learn More</a>
-            </div>
-            <div>
-                <img src="images/whot-africa-icon.png" alt="Whot Africa Icon" class="rounded-lg shadow-md">
-            </div>
-        </div>
-    </section>
+---
 
-    <section id="whoto-whoto" class="py-12 bg-gray-50">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 px-4">
-            <div>
-                <h3 class="text-3xl font-bold mb-4">Whoto Whoto</h3>
-                <p class="text-lg mb-4">Enjoy the ultimate multiplayer experience with Whoto Whoto. Its exciting features keep players hooked for hours.</p>
-                <ul class="list-disc list-inside text-lg mb-4">
-                    <li>Real-time gameplay</li>
-                    <li>Unique power cards</li>
-                    <li>Chat with friends</li>
-                </ul>
-                <a href="#" class="text-blue-600 hover:underline">Learn More</a>
-            </div>
-            <div>
-                <img src="images/whoto-whoto-icon.png" alt="Whoto Whoto Icon" class="rounded-lg shadow-md">
-            </div>
-        </div>
-    </section>
+## 💼 About the Developer
 
-    <section id="whot-naija" class="py-12">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 px-4">
-            <div>
-                <h3 c
+As a Senior and Lead Developer, I have been at the forefront of designing and developing these amazing games that have become a staple of fun and strategy across Africa. My expertise has brought life to Whot Africa, Whoto Whoto, Whot Naija, and Chopbarah, ensuring every player experiences top-notch gameplay.
+
+<!-- ![Developer Image](public/images/developer-image.jpg) -->
+
+---
+
+## 🎮 Game Highlights
+
+### Whot Africa
+![Whot Africa Icon](public/images/whot-africa-icon.jpg)
+- Classic card designs
+- Multiplayer mode
+- Interactive leaderboards
+
+### Whoto Whoto
+![Whoto Whoto Icon](public/images/whoto-whoto-icon.jpg)
+- Real-time gameplay
+- Unique power cards
+- Chat with friends
+
+### Whot Naija
+![Whot Naija Icon](public/images/whot-naija-icon.jpg)
+- Naija-themed graphics
+- Special Nigerian power cards
+- Community tournaments
+
+### Chopbarah
+![Chopbarah Icon](public/images/chopbarah-icon.jpg)
+- Thrilling challenges
+- Leaderboards
+- Play-to-earn rewards
+
+---
+
+## 🛠 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/whot-games-promotion.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd whot-games-promotion
+   ```
+3. Open the `index.html` file in your browser to view the landing page locally.
+4. Deploy to platforms like [Vercel](https://vercel.com) for hosting.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Feel free to explore and contribute to the repository. Enjoy playing and sharing the best card games Africa has to offer!
