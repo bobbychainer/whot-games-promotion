@@ -1,14 +1,9 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
+  "builds": [{ "src": "index.html", "use": "@vercel/static" }],
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/((?!images|css|js|favicon.ico).*)",
       "destination": "/index.html"
     }
   ]
